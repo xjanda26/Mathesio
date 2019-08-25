@@ -6,7 +6,7 @@ public class Database {
 
     }
 
-    /*
+    /**
      * Tu by boli methody pre prácu a pripojenie k databaze
      *
      * */
